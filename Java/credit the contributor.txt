@@ -1,1 +1,5 @@
+PNG
 <a href="https://iconscout.com/icons/java" target="_blank">Java Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a>
+
+SVG
+<a href="https://iconscout.com/icons/java" target="_blank">Java Icon</a> on <a href="https://iconscout.com">Iconscout</a>
