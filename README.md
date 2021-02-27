@@ -1,4 +1,4 @@
-<h6>Imagens para README de porjetos </h6>
+<h6>Imagens para README de projetos </h6>
 <h1 align="center">Ícones</h1>
 
 
